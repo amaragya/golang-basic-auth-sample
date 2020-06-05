@@ -7,7 +7,7 @@ How to Run
 go run *.go
 ```
 
-How to test
+How to Test
 ```
 curl --location --request GET 'http://localhost:9000/product' \
 --header 'Authorization: Basic YW1hcjphZ3lh'
