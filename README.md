@@ -3,7 +3,9 @@ golang implementation for basic auth
 
 
 How to Run
-`go run *.go`
+```
+go run *.go
+```
 
 How to test
 ```
